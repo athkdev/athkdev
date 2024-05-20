@@ -59,10 +59,8 @@ build presentations containing tons of animations and present information in a s
 This app allows that, with a simpler, new approach!
 ```
 
-### Do you have a personal website?
-```
-https://atharvakamble.github.io
-```
+### Do you have a personal website? 
+> Yes! Visit [https://athk.dev](https://athk.dev)
 
 ### How do I contact you?
 ```
