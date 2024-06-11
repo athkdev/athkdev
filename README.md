@@ -49,7 +49,7 @@ access the new age of GPT chatbots with more and more efficiency.
 
 ### What's one product that you are really proud of?
 ```
-https://projects.athk.dev/present
+projects.athk.dev/present
 
 This is a project that started as a semester capstone project, but due to its use case, I began
 maintaining it as an open-source project. It's unique selling point is that it speeds up the process of
@@ -57,6 +57,19 @@ creating presentations for all users, and that too pretty presentations. You hav
 build presentations containing tons of animations and present information in a swift manner.
 
 This app allows that, with a simpler, new approach!
+```
+
+### Are you working on anything new?
+```
+I am currently working on Model0 - which is a platform as a service that leverages AWS SageMaker to
+allow users to build, train and fine-tune their own ML, and GPT models. The platform also aims on
+providing users with API interface to use pre-trained versions of their models into their own apps.
+
+A very good use-case: train and fine-tune the weights of a LLM or SLM on Model0, deploy it and then
+communicate to it with a dedicate custom or templated API. For eg. a customer help chatbot.
+
+I am using Next.js on the frontend and GoLang on the backend along with Terraform's Cloud Development
+Kit to manage AWS infrastructure.
 ```
 
 ### Do you have a personal website? 
@@ -72,22 +85,10 @@ reach me at kamble.ath@northeastern.edu OR my personal mail atharva.io@outlook.c
 ```
 Yes! I do like to write about technologies, my current progress and findings on Medium and on my site!
 
-Find me on Medium:         https://medium.com/@atharvadkamble00 
+My site:                   blog.athk.dev
+Find me on Medium:         medium.com/@atharvadkamble00 
 ```
 
 ___
 Feel free to browse through my projects and take a look at my code. If you see what you are looking for, shoot me an email at `kamble.ath@northeastern.edu` for a quick chat regarding my work or virtually anything! (i love to chat to new people and build networks!)
-<!--
-**AtharvaKamble/AtharvaKamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
