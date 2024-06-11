@@ -49,7 +49,7 @@ access the new age of GPT chatbots with more and more efficiency.
 
 ### What's one product that you are really proud of?
 ```
-https://present-self.vercel.app/landing
+https://projects.athk.dev/present
 
 This is a project that started as a semester capstone project, but due to its use case, I began
 maintaining it as an open-source project. It's unique selling point is that it speeds up the process of
