@@ -3,6 +3,8 @@
 Hi there, I am Atharva Kamble, an experienced software engineer currently pursuing a Masters degree in Computer Software Engineering from Northeastern University, Boston. 👋
 
 I am a tech enthusiast, and mainly a software generalist - because of my fundamental understanding of tech and programming, it helps me to learn new frameworks and build higher-level knowledge very quickly. In my free time, I like to build meaningful projects that try to fulfill a use case.
+
+Currently, learning and mastering GoLang because of how cool it is.
 ___
 
 # FAQ about me!
