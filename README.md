@@ -4,7 +4,7 @@ Hi there, I am Atharva Kamble, an experienced software engineer currently pursui
 
 I am a tech enthusiast, and mainly a software generalist - because of my fundamental understanding of tech and programming, it helps me to learn new frameworks and build higher-level knowledge very quickly. In my free time, I like to build meaningful projects that try to fulfill a use case.
 
-Currently, learning and mastering GoLang because of how cool it is.
+Open to SDE roles across the US starting May '25.
 ___
 
 # FAQ about me!
@@ -21,10 +21,6 @@ write blogs, and increase my algorithmic skills on Leetcode.
 - [x] Software Engineer
 - [x] Fullstack Engineer 
 
-### What type of work are you currently looking for?
-```
-Internships and co-ops.
-```
 
 ### Where are you located?
 ```
