@@ -10,10 +10,9 @@ ___
 # FAQ about me!
 ### What are you doing currently?
 ```
-As of now it's the summer break of '24 and I am actively looking for an internship or
-a co-op. My university also allows me to intern through the fall semester! In the meantime,
-I spend time building projects for valid use-cases, maintaining my open source product Present,
-write blogs, and increase my algorithmic skills on Leetcode.
+As of now I work as a Research Assistant for Prof. Nik Brown at
+Northeastern University. My research is focused on AI bots, Generative AI
+and LLMs.
 ```
 
 ### What descriptions fit you the best?
