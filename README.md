@@ -10,15 +10,18 @@ ___
 # FAQ about me!
 ### What are you doing currently?
 ```
-As of now I work as a Research Assistant for Prof. Nik Brown at
-Northeastern University. My research is focused on AI bots, Generative AI
-and LLMs.
+As of now I work as a Teaching Assistant for Prof. Nik Brown at
+Northeastern University - where I assist him for CSYE 7270 - Building Virtual Environments
+(LLMs, Chatbots, C++, C#)
 ```
 
 ### What descriptions fit you the best?
 - [x] Software Development Engineer
 - [x] Software Engineer
-- [x] Fullstack Engineer 
+- [x] Fullstack Engineer
+- [x] Data Engineer
+- [x] Frontend Engineer
+- [x] Backend Engineer
 
 
 ### Where are you located?
@@ -31,29 +34,23 @@ permissions to WFO anywhere in the US though.
 I specialize in building end-to-end web products with React.js, Next.js, Typescript, GoLang, Java,
 Python, AWS, PostgreSQL, MongoDB, Vercel, Git, Unix, Neovim.
 ```
-```
-Recently, while at college, I also had amazing experiences diving into the newest cutting-edge
-tech like Web3 and Prompt Engineering. I deployed an NFT marketplace that hosted and minted
-all NFTs on Pinata cloud IPFS. Along with we built a Bitcoin explorer as a class project where
-everyone from the class contributed to a single repo by taking ownership of smaller modules for the site.
-```
+
 ```
 Huge shoutout to Prof. Nick Bear Brown at Northeastern University, who got me so interested
-in Prompt Engineering - this stretched to engineering prompts to generate other prompts, images,
+in Prompt Engineering & AI - this stretched to engineering prompts to generate other prompts, images,
 videos and songs even! I like pursuing prompt engineering in my leisure time because it allows me to
 access the new age of GPT chatbots with more and more efficiency.
 ```
 
 ### What's one product that you are really proud of?
 ```
-projects.athk.dev/present
+model0
 
-This is a project that started as a semester capstone project, but due to its use case, I began
-maintaining it as an open-source project. It's unique selling point is that it speeds up the process of
-creating presentations for all users, and that too pretty presentations. You have to be fairly tech-savvy to
-build presentations containing tons of animations and present information in a swift manner.
+A full-stack application enabling rapid creation, fine-tuning, and deployment of large language models (LLMs)
+using AWS SageMaker. Utilized Python, MySQL, React.js, and AWS EC2 to deliver a high-performance, scalable infrastructure.
 
-This app allows that, with a simpler, new approach!
+The objective of the project was that, I noticed that there was a need amongst developers who wanted to deploy AI chatbots,
+and ML models ASAP. But such tools were not readily available.
 ```
 
 ### Are you working on anything new?
@@ -75,7 +72,7 @@ Kit to manage AWS infrastructure.
 ### How do I contact you?
 ```
 I am super excited to hear from you so we can grow our network! Feel free to
-reach me at kamble.ath@northeastern.edu OR my personal mail atharva.io@outlook.com
+reach me at kamble [dot] ath [at] northeastern [dot] edu OR my personal mail ath [dot] neue [at] gmail [dot] com
 ```
 
 ### Do you write? Where can I find your stuff?
@@ -87,5 +84,6 @@ Find me on Medium:         medium.com/@atharvadkamble00
 ```
 
 ___
-Feel free to browse through my projects and take a look at my code. If you see what you are looking for, shoot me an email at `kamble.ath@northeastern.edu` for a quick chat regarding my work or virtually anything! (i love to chat to new people and build networks!)
+
+Feel free to browse through my projects and take a look at my code. If you want to hire me, feel free to reach out to me.
 
