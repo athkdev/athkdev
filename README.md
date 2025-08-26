@@ -1,18 +1,20 @@
 # Atharva Kamble
 
-Hi there, I am Atharva Kamble, an experienced software engineer currently pursuing a Masters degree in Computer Software Engineering from Northeastern University, Boston. 👋
+Hi there, I am Atharva Kamble, an experienced fullstack engineer and a recent grad with an MS in Software Engineering Systems from Northeastern University. 👋
 
-I am a tech enthusiast, and mainly a software generalist - because of my fundamental understanding of tech and programming, it helps me to learn new frameworks and build higher-level knowledge very quickly. In my free time, I like to build meaningful projects that try to fulfill a use case.
+I am a software generalist - because of my fundamental understanding of tech and programming, it helps me learn new frameworks and build higher-level knowledge quickly. In my free time, I like to build meaningful projects that try to fulfill a use case - and most importantly, generate impact.
 
-Open to SDE roles across the US starting May '25.
+Open to SDE and fullstack roles across the US.
 ___
 
 # FAQ about me!
 ### What are you doing currently?
 ```
-As of now I work as a Teaching Assistant for Prof. Nik Brown at
-Northeastern University - where I assist him for CSYE 7270 - Building Virtual Environments
-(LLMs, Chatbots, C++, C#)
+I am working on bemyroomie - I noticed that during moving season,
+the process of finding roommates is chaotic especially for college
+students. There are lots of back and forth, whatsapp and telegram
+groups - bemyroomie is streamlining it and giving college students
+a seamless experience in an already chaotic world.
 ```
 
 ### What descriptions fit you the best?
@@ -31,20 +33,18 @@ permissions to WFO anywhere in the US though.
 ```
 ### What technologies do you specialize in?
 ```
-I specialize in building end-to-end web products with React.js, Next.js, Typescript, GoLang, Java,
+I specialize in building end-to-end web products with Next.js, Typescript, GoLang, Java,
 Python, AWS, PostgreSQL, MongoDB, Vercel, Git, Unix, Neovim.
+
+As LLMs rose, I have gracefully adopted them in my workflow to use Cursor, and Claude mostly.
+But I have been coding since the pre-GPT era, so I do refer the ancient texts (stackoverflow)
+whenever LLMs fail.
 ```
 
-```
-Huge shoutout to Prof. Nick Bear Brown at Northeastern University, who got me so interested
-in Prompt Engineering & AI - this stretched to engineering prompts to generate other prompts, images,
-videos and songs even! I like pursuing prompt engineering in my leisure time because it allows me to
-access the new age of GPT chatbots with more and more efficiency.
-```
 
 ### What's one product that you are really proud of?
 ```
-model0
+model0 - LLM orchestration tool
 
 A full-stack application enabling rapid creation, fine-tuning, and deployment of large language models (LLMs)
 using AWS SageMaker. Utilized Python, MySQL, React.js, and AWS EC2 to deliver a high-performance, scalable infrastructure.
@@ -53,26 +53,13 @@ The objective of the project was that, I noticed that there was a need amongst d
 and ML models ASAP. But such tools were not readily available.
 ```
 
-### Are you working on anything new?
-```
-I am currently working on Model0 - which is a platform as a service that leverages AWS SageMaker to
-allow users to build, train and fine-tune their own ML, and GPT models. The platform also aims on
-providing users with API interface to use pre-trained versions of their models into their own apps.
-
-A very good use-case: train and fine-tune the weights of a LLM or SLM on Model0, deploy it and then
-communicate to it with a dedicate custom or templated API. For eg. a customer help chatbot.
-
-I am using Next.js on the frontend and GoLang on the backend along with Terraform's Cloud Development
-Kit to manage AWS infrastructure.
-```
-
 ### Do you have a personal website? 
 > Yes! Visit [https://athk.dev](https://athk.dev)
 
 ### How do I contact you?
 ```
 I am super excited to hear from you so we can grow our network! Feel free to
-reach me at kamble [dot] ath [at] northeastern [dot] edu OR my personal mail ath [dot] neue [at] gmail [dot] com
+reach me at atharvakamble [at] proton [dot] me.
 ```
 
 ### Do you write? Where can I find your stuff?
