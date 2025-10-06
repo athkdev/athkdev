@@ -1,6 +1,6 @@
-# Atharva Kamble
+# atharva kamble
 
-Hi there, I am Atharva Kamble, an experienced fullstack engineer and a recent grad with an MS in Software Engineering Systems from Northeastern University. 👋
+Hi there, I am an experienced fullstack engineer and a recent grad with an MS in Software Engineering Systems from Northeastern University. 👋
 
 Open to SDE and fullstack roles across the US.
 
